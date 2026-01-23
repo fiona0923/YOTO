@@ -89,4 +89,8 @@ This repository is intended for researchers working on:
 ## Citation
 
 If you use this framework or build upon the ideas presented here, please cite:
-
+@unpublished{YOTO,
+title = {Deep-learning-assisted magnetoelastic multimodal intelligent haptic perception system},
+author = {Du, Y., et al.},
+note = {Manuscript in preparation}
+}
