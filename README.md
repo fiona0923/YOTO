@@ -90,7 +90,7 @@ This repository is intended for researchers working on:
 
 If you use this framework or build upon the ideas presented here, please cite:
 @unpublished{YOTO,
-title = {Deep-learning-assisted magnetoelastic multimodal intelligent haptic perception system},
-author = {Du, Y., et al.},
-note = {Manuscript in preparation}
+  title  = {Deep-Learning-Assisted Magnetoelastic Multimodal Intelligent Haptic Perception System},
+  author = {Du, Yifei and others},
+  note   = {Manuscript in preparation}
 }
